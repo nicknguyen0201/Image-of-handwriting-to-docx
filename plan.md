@@ -1,4 +1,4 @@
-# Project idea: Convert Handwritten notes / manually-filled forms in to docx file
+# Project idea: Convert Handwritten notes / Manually-filled documents into text
 
 A deep learning pipeline that converts images of handwritten text into digital text using **CRAFT** (text detection) and **TrOCR** (text recognition).
 
