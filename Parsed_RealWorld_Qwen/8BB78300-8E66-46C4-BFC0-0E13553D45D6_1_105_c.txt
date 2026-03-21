@@ -1,0 +1,26 @@
+Objects and Classes (10 points)
+Suppose that you are provided with a pre-written class Employee as described below and at right. (The headings are shown, but not the method bodies, to save space.) Assume that the fields, constructor, and methods shown are already implemented. You may refer to them or use them if necessary.
+// A class to represent employees in general.
+public class Employee {
+    private String name;
+    private int id;
+    private double baseSalary = 40000.0;
+    private int baseVacationDays = 10;
+}
+// returns the field values
+public double getSalary() {}
+public int getVacationDays() {}
+}
+In main:
+Employee e = new Lawyer("Benson", 123);
+1. Add the following to the Employee class:
+a. Create a constructor that constructs and initializes the name and id for the Employee object.
+public Employee(String name, int id) {
+    this.name = name;
+    this.id = id;
+}
+b. Override the 'toString' method: Your method should return a String that contains the Employee's name, and id separating them with a comma and enclosing the result in square brackets. For example, if an Employee object named ben has the name "Benson", the call of ben.toString() should return: [Benson, 123]
+// [Benson, 123]
+& public String toString() {
+    return "[" + name + ", " + id + "]";
+}

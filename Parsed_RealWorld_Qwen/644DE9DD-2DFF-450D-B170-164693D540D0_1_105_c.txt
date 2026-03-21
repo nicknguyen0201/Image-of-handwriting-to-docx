@@ -1,0 +1,30 @@
+Group #: 13
+
+CSE 110 In-Class Activity - May 8, 2025
+
+The various -ilities represent the characteristics we want to imbue into our software product for quality. For each of the -ilities listed below provide at least one example in either HTML, CSS, JavaScript, patterns, tooling, project steps, team practices, etc. that might improve the adherence to the -ility. Great answers are specific.
+
+- Performance
+  - Try reduce dependency in html code
+- Accessibility
+  - Clear rules for users to use, html accessible to the blind
+- Maintainability
+  - Feature branching, coding guideline
+- Usability
+  - How easy users say they can use the web
+- Functionality
+  - Make the interface standard videogame interface
+  - Testing w/ headless browser
+  - Testing with unit tests
+- Maintainability
+  - Documentation, model after common libraries
+  - Inputs, description, data type, output, etc.
+It's nearly week 7 and the start of Drama Week(s) at UCSD. Suddenly, team members are missing deadlines, killing code quality, getting stressed, and might even ghost the team. What should we do to get through this? Good answers try to apply ideas and theories from SWE we have covered and aim to be practical and pragmatic.
+
+Avoid busy factors, frequent stand-up meetings that are SHORT, ~10-15 min MAX.
+Overload responsibilities to 2 or more for accountability.
+
+Team spoke in class today?
+Yes No
+
+Missing Members: Kate, Pranay, Destin

@@ -1,0 +1,186 @@
+===== 61D5886E-E199-42C0-AC04-F67F10A5E3F2_1_105_c =====
+A) using fresh aliquot of acqol solution
+→ Get at least 2 trials with the
+net vol agree within ± 2% of
+each other.
+Relative range = range
+average net vol - 100%
+range : max – min of net vol NaOH
+Clean up
+1. Solutions go to hood
+2. Rinse all glassware with DI water
+3. refill DI water bottle
+4. Return items to cart
+5. Record power cord of fan plate
+6. wipe bench
+7. wash hand
+
+===== 644DE9DD-2DFF-450D-B170-164693D540D0_1_105_c =====
+Group #: 13
+
+CSE 110 In-Class Activity - May 8, 2025
+
+The various -ilities represent the characteristics we want to imbue into our software product for quality. For each of the -ilities listed below provide at least one example in either HTML, CSS, JavaScript, patterns, tooling, project steps, team practices, etc. that might improve the adherence to the -ility. Great answers are specific.
+
+- Performance
+  - Try reduce dependency in html code
+- Accessibility
+  - Clear rules for users to use, html accessible to the blind
+- Maintainability
+  - Feature branching, coding guideline
+- Usability
+  - How easy users say they can use the web
+- Functionality
+  - Make the interface standard videogame interface
+  - Testing w/ headless browser
+  - Testing with unit tests
+- Maintainability
+  - Documentation, model after common libraries
+  - Inputs, description, data type, output, etc.
+It's nearly week 7 and the start of Drama Week(s) at UCSD. Suddenly, team members are missing deadlines, killing code quality, getting stressed, and might even ghost the team. What should we do to get through this? Good answers try to apply ideas and theories from SWE we have covered and aim to be practical and pragmatic.
+
+Avoid busy factors, frequent stand-up meetings that are SHORT, ~10-15 min MAX.
+Overload responsibilities to 2 or more for accountability.
+
+Team spoke in class today?
+Yes No
+
+Missing Members: Kate, Pranay, Destin
+
+===== 7D855EF9-A642-46D0-81DA-E491716E6BDB_1_105_c =====
+\[
+\begin{array}{l}
+\text { APM } \\
+\text { FindTM } \\
+\langle n, w \rangle \rightarrow E \\
+\text { Yes } \rightarrow \text { Yes, in order to say yes, } \\
+E \text { has to print } \infty \text { things } \\
+\text { No } \rightarrow \text { No, E prints finite } \\
+\text { in order } \\
+\text { Yes, to say yes, } \\
+\langle E \rangle \rightarrow \text { then } \\
+E \text { has to be in the L (Finite) } \\
+\text { No } \rightarrow \text { print } \infty \text { amount of things }
+\end{array}
+\]
+
+===== 8BB78300-8E66-46C4-BFC0-0E13553D45D6_1_105_c =====
+Objects and Classes (10 points)
+Suppose that you are provided with a pre-written class Employee as described below and at right. (The headings are shown, but not the method bodies, to save space.) Assume that the fields, constructor, and methods shown are already implemented. You may refer to them or use them if necessary.
+// A class to represent employees in general.
+public class Employee {
+    private String name;
+    private int id;
+    private double baseSalary = 40000.0;
+    private int baseVacationDays = 10;
+}
+// returns the field values
+public double getSalary() {}
+public int getVacationDays() {}
+}
+In main:
+Employee e = new Lawyer("Benson", 123);
+1. Add the following to the Employee class:
+a. Create a constructor that constructs and initializes the name and id for the Employee object.
+public Employee(String name, int id) {
+    this.name = name;
+    this.id = id;
+}
+b. Override the 'toString' method: Your method should return a String that contains the Employee's name, and id separating them with a comma and enclosing the result in square brackets. For example, if an Employee object named ben has the name "Benson", the call of ben.toString() should return: [Benson, 123]
+// [Benson, 123]
+& public String toString() {
+    return "[" + name + ", " + id + "]";
+}
+
+===== A293F07E-DF59-4E81-83D0-EAEEC662420F_1_105_c =====
+Our Group Agreements
+Be respectful & polite with each other
+Communication
+- Talk openly - Acknowledge Concerns
+- Active listening (when comfortable)
+- Contribute equally
+- Participate in activities/conversations
+- Use appropriate language
+Be responsible - complete your task
+Create a fun environment/safe space
+HA - Be friendly with each other
+S.N. - Work well together
+or - Respectful & polite
+- Look out for each other
+- Be a decent human being
+
+===== BF344226-C7AC-4D47-81EA-5BE1FE732BB5_1_102_a =====
+Part B
+Concentration
+% m/v Percent mass per volume:
+= \frac{9.554(g)}{250.0(mL)} × 100% = 3.8216
+= 3.822 (% m/v)
+
+Calculated molarity
+MM NaCl = 1.(22.989707 + 1(35.4527)
+= 58.442407 (g/mL)
+= 58.4424 (g/mol)
+
+M = \frac{m}{MM} = \frac{9.554(g)}{58.442407(g/mol)} ≈ 0.1635 (mol)
+
+===== D27A69E5-1C23-4EA4-93A0-93CA9370E27F_1_105_c =====
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+===== D725BD67-7E04-4DB0-8FA4-8C4890A4E2B8_1_105_c =====
+3) Trademark
+His second spot is trademark.
+Example: Google,
+"just do it", C3,
+Apple trademark
+alone worth $16.6B
+Netflix jat theme song
+Sheraton lobby small, people need a way to
+Starbucks cup they have your company
+To file a trademark USPTO.GOV
+- file intent to use (to keep your spot in line)
+- Then your company get the right advice of
+what class of trademark
+<<Google Pattern>>
+
+===== IMG_0738 =====
+Hello my name is Nick, I am
+an UCSD student
+
+Xin chào tôi là Nick, tôi là
+sinh viên ở UCSD.
+
+===== IMG_2335 =====
+Name: Nick Nguyen PID: A18533187
+CSE 190: Working with Large Codebases - Winter 2026
+Lecture 6: Debugger for Program Comprehension + Unit tests
+Gerald Soosairaj
+NOTE: To get lecture credit, submit this handout on gradescope at the end of the lecture.
+LAST CLASS
+1. Using Print Statements for Program Comprehension
+2. Unit tests for Program Comprehension
+TODAY
+Announcements
+Homework 1 grades released
+Sign up for homework 1 oral exam
+Homework 2 (and all future homework) should branch off from main
+Please bring your laptop to study groups with your local development environment setup
+o If you work on a desktop computer, you could use git to use it on your laptop too
+UML Diagram Requirements
+Code Style Guidelines
+Homework 2 Grading Checklist: Homework 2 (attached from homework 2
+writeup)
+Sign up for GitHub Education Benefits
+Our diagram (Has to be yours, not my resume for hw2)
+class Name
+3 structures
+3 var
+3 most important methods
+3 var
+3 most important methods
+3 var
+Code style, (idle lib)
+- Use PEP-8 code guildline
+1/ snake - case
+2/ Not a lot of inline comments. (reserve for complex
+lock of code)
+

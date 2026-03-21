@@ -1,0 +1,12 @@
+Part B
+Concentration
+% m/v Percent mass per volume:
+= \frac{9.554(g)}{250.0(mL)} × 100% = 3.8216
+= 3.822 (% m/v)
+
+Calculated molarity
+MM NaCl = 1.(22.989707 + 1(35.4527)
+= 58.442407 (g/mL)
+= 58.4424 (g/mol)
+
+M = \frac{m}{MM} = \frac{9.554(g)}{58.442407(g/mol)} ≈ 0.1635 (mol)

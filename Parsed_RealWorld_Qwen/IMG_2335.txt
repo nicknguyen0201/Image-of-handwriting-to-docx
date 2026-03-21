@@ -1,0 +1,33 @@
+Name: Nick Nguyen PID: A18533187
+CSE 190: Working with Large Codebases - Winter 2026
+Lecture 6: Debugger for Program Comprehension + Unit tests
+Gerald Soosairaj
+NOTE: To get lecture credit, submit this handout on gradescope at the end of the lecture.
+LAST CLASS
+1. Using Print Statements for Program Comprehension
+2. Unit tests for Program Comprehension
+TODAY
+Announcements
+Homework 1 grades released
+Sign up for homework 1 oral exam
+Homework 2 (and all future homework) should branch off from main
+Please bring your laptop to study groups with your local development environment setup
+o If you work on a desktop computer, you could use git to use it on your laptop too
+UML Diagram Requirements
+Code Style Guidelines
+Homework 2 Grading Checklist: Homework 2 (attached from homework 2
+writeup)
+Sign up for GitHub Education Benefits
+Our diagram (Has to be yours, not my resume for hw2)
+class Name
+3 structures
+3 var
+3 most important methods
+3 var
+3 most important methods
+3 var
+Code style, (idle lib)
+- Use PEP-8 code guildline
+1/ snake - case
+2/ Not a lot of inline comments. (reserve for complex
+lock of code)
