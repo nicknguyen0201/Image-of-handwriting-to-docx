@@ -39,7 +39,7 @@ def copyStateDict(state_dict):
         new_state_dict[name] = v
     return new_state_dict
 
-def test_net(net, image, text_threshold, link_threshold, low_text, cuda, poly, refine_net=None):
+def test_net(net, image, text_threshold, link_threshold, low_text, cuda, poly, args, refine_net=None):
     t0 = time.time()
 
     # resize
@@ -86,6 +86,7 @@ def test_net(net, image, text_threshold, link_threshold, low_text, cuda, poly, r
     render_img = np.hstack((render_img, score_link))
     ret_score_text = imgproc.cvt2HeatmapImg(render_img)
 
-    if args.show_time : print("\ninfer/postproc time : {:.3f}/{:.3f}".format(t0, t1))
+    if args.show_time:
+        print("\ninfer/postproc time : {:.3f}/{:.3f}".format(t0, t1))
 
     return boxes, polys, ret_score_text, det_scores

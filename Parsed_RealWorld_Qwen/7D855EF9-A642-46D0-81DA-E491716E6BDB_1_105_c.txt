@@ -1,0 +1,15 @@
+\[
+\begin{array}{l}
+\text { APM } \\
+\text { FindTM } \\
+\langle n, w \rangle \rightarrow E \\
+\text { Yes } \rightarrow \text { Yes, in order to say yes, } \\
+E \text { has to print } \infty \text { things } \\
+\text { No } \rightarrow \text { No, E prints finite } \\
+\text { in order } \\
+\text { Yes, to say yes, } \\
+\langle E \rangle \rightarrow \text { then } \\
+E \text { has to be in the L (Finite) } \\
+\text { No } \rightarrow \text { print } \infty \text { amount of things }
+\end{array}
+\]
