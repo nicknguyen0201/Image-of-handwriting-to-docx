@@ -8,7 +8,7 @@ This repository supports a final project paper that **compares two handwriting i
 [The final paper](https://github.com/nicknguyen0201/Image-of-handwriting-to-docx/tree/dev) evaluates both pipelines on:
 
 - **IAM Handwriting** dataset: [TrOCR result printed notebook](https://github.com/nicknguyen0201/Image-of-handwriting-to-docx/blob/dev/Final%20Paper%20and%20Collab%20printed%20html/eval_ocr_IAM.pdf), [QWEN result printed notebook](https://github.com/nicknguyen0201/Image-of-handwriting-to-docx/blob/dev/Final%20Paper%20and%20Collab%20printed%20html/eval_qwen_IAM.pdf)
-- [**Author-collected custom handwriting images**](https://github.com/nicknguyen0201/Image-of-handwriting-to-docx/tree/dev/CRAFT-pytorch/tests)
+- [**Author-collected custom handwriting images**](https://github.com/nicknguyen0201/Image-of-handwriting-to-docx/tree/dev/CRAFT-pytorch/tests): the results for the inference can be found in these files for the corresponding images name: [TrOCR](https://github.com/nicknguyen0201/Image-of-handwriting-to-docx/blob/dev/Parsed_RealWorld_TrOCR_full/all_text.txt), [Craft+TrOCR](https://github.com/nicknguyen0201/Image-of-handwriting-to-docx/blob/dev/Parsed_RealWorld_CRAFT_TrOCR/all_text.txt), [Qwen](https://github.com/nicknguyen0201/Image-of-handwriting-to-docx/blob/dev/Parsed_RealWorld_Qwen/all_text.txt)
 
 The goal is to quantify accuracy and robustness (clean dataset vs. real-world handwriting) and to analyze _why_ a VLM can outperform a detection+recognition OCR stack.
 
