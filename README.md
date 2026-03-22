@@ -5,10 +5,10 @@ This repository supports a final project paper that **compares two handwriting i
 1. **Traditional OCR pipeline:** CRAFT (text detection) + TrOCR (Transformer OCR recognition)
 2. **Vision-language model pipeline:** Qwen2.5-VL (end-to-end transcription via instruction prompting)
 
-The paper evaluates both pipelines on:
+[The final paper](https://github.com/nicknguyen0201/Image-of-handwriting-to-docx/tree/dev) evaluates both pipelines on:
 
-- **IAM Handwriting** dataset
-- **Author-collected custom handwriting images**
+- **IAM Handwriting** dataset: [TrOCR result printed notebook](https://github.com/nicknguyen0201/Image-of-handwriting-to-docx/blob/dev/Final%20Paper%20and%20Collab%20printed%20html/eval_ocr_IAM.pdf), [QWEN result printed notebook](https://github.com/nicknguyen0201/Image-of-handwriting-to-docx/blob/dev/Final%20Paper%20and%20Collab%20printed%20html/eval_qwen_IAM.pdf)
+- [**Author-collected custom handwriting images**](https://github.com/nicknguyen0201/Image-of-handwriting-to-docx/tree/dev/CRAFT-pytorch/tests)
 
 The goal is to quantify accuracy and robustness (clean dataset vs. real-world handwriting) and to analyze _why_ a VLM can outperform a detection+recognition OCR stack.
 
